@@ -1,4 +1,5 @@
 ## Hi there 👋
+![960x0](https://github.com/user-attachments/files/21499301/Grey.Blue.Pixel.Tech.Computer.Presentation.pdf)
 
 <!--
 **njeriw/njeriw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
