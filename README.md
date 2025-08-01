@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Njeri (she/her) - I’m an aspiring data scientist, currently pursuing my Master's degree at Georgia Institute of Technology. My interests include Machine Learning, Exploratory Data Analysis (EDA), Natural Language Processing (NLP), and MLOps. Here, you'll find my projects, experiments, and ongoing learning experiences as I dive deeper into the world of data.
+I'm Njeri (she/her) - I’m an aspiring data scientist, currently pursuing my Master's degree at The Georgia Institute of Technology. My interests include Machine Learning, Exploratory Data Analysis (EDA), Natural Language Processing (NLP), and MLOps. Here, you'll find my projects, experiments, and ongoing learning experiences as I dive deeper into the world of data.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,pytorch,tensorflow,sklearn)](https://skillicons.dev)
